@@ -3,6 +3,7 @@ public class Hello{
       System.otu.println("vs code is awesome.");
 
       display();
+      greeting();
    }
 
    public static void display(){
@@ -11,5 +12,9 @@ public class Hello{
 
    public static int sqr(int x){
       return x*x;
+   }
+   
+   public static void greeting(){
+      System.out.println("goodby bye");
    }
 }
