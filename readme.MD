@@ -1,1 +1,1 @@
-this is simple read me file
+hello vs code is awesome
