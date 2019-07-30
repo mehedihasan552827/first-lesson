@@ -3,7 +3,7 @@ public class Hello{
       System.otu.println("vs code is awesome.");
 
       display();
-      greeting();
+      welcome();
    }
 
    public static void display(){
@@ -14,7 +14,7 @@ public class Hello{
       return x*x;
    }
    
-   public static void greeting(){
-      System.out.println("goodby bye");
+   public static void welcome(){
+      System.out.println("hello i have to go");
    }
 }
