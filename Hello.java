@@ -4,8 +4,8 @@ public class Hello{
 
    }
 
- public static void sqr(int x){
-    return x*x;
+ public static void display(){
+    System.out.println("merge conflict bother a lot");
  }
 
 }
